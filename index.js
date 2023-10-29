@@ -30,3 +30,4 @@ switch (true) {
   }
   
   //Não observei a necessidade de utilizar um laço de repetição para chegar no objetivo.
+  //
